@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "strings": "nodemon ./js/03-strings.js",
     "number": "nodemon ./js/02-number.js",
     "console": "nodemon ./js/01-console.js",
     "dev": "nodemon",
