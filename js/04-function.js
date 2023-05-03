@@ -47,3 +47,8 @@ console.log(prisistatymas("Petras", 16))
 console.log(prisistatymas("Maryte", 160))
 console.log(prisistatymas("Jonas", 36))
 console.log(prisistatymas("Ona", 99))
+
+function problem(X) {
+  return `50 + 6`;
+}
+console.log(problem);
