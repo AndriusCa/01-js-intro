@@ -153,3 +153,4 @@ liek %= 5
 console.log(liek)
 
 
+console.log(7 * 5)

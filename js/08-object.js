@@ -153,3 +153,5 @@ auto.savininkai = []
 console.log(auto)
 
 console.log(jonas);
+
+

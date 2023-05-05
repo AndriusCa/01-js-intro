@@ -31,7 +31,7 @@ if (7 < 1) {
 const userAge = 10
 const ageLimit = 18
 
-if (userAge >= ageLimit) {
+if (userAge >= ageLimit) {        // Else bus panaudotas tik jeigu IF bus False. 
   console.log("uzeik.... 😎")
 } else {
   console.log(`dar palauk ${ageLimit - userAge} metu...`)
@@ -259,3 +259,39 @@ if (!nameInputValue) {
 
 const negative = !!nameInputValue
 console.log(negative)
+
+//IF ElSE
+
+/* const age = 19;
+const isOldEnough = age >= 18; //<--galima rasyti matematini veiksma tiesiai i funkcija
+
+if (isOldEnough) {     //<-- galima rasyti matematini veiksma tiesiai 
+  console.log('Sarah can start driving license ');
+} */
+
+
+const age = 15
+
+if (age >= 18) {
+  //<-- galima rasyti matematini veiksma tiesiai     // control structure
+  console.log("Sarah can start driving license ")
+} else {
+  const yearLeft = 18 - age
+  console.log(`Sarah is to young. Wait another ${yearLeft} years ;)`)
+}
+
+
+const birthYear = 1998
+
+let century //kintamasis turi buti nurodytas atskirame bloke. Jeigu bus nurodytas kitame bloke kaip pvz: if, else neveiks kodas
+
+if (birthYear <= 2000) {
+  // if else blokas
+  century = 20
+} else {
+  century = 21
+}
+console.log(century)
+
+
+const 
