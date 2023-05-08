@@ -154,3 +154,41 @@ console.log(liek)
 
 
 console.log(7 * 5)
+
+let i = 0
+console.log(i)
+
+i = i + 1
+console.log(i)
+
+i += 1
+console.log(i)
+
+i++
+console.log(i)
+
+++i
+console.log(i)
+
+let m = 0
+console.log(m)
+
+m = m - 1
+console.log(m)
+
+m -= 1
+console.log(m)
+
+m--
+console.log(m)
+
+--m
+console.log(m)
+
+console.clear()
+
+let n = 0
+
+console.log(n)
+console.log(++n)
+console.log(n)

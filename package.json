@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "miniuzduotys": "nodemon ./js/miniuzduotys.js",
+    "for": "nodemon ./js/12-for.js",
     "tries": " nodemon ./js/tries.js",
     "ternary": "nodemon ./js/11-ternary.js",
     "if": "nodemon ./js/10-if.js",
