@@ -149,8 +149,7 @@ console.log(multiplay(-5, -2));
 // Kintamųjų palyginimas#
 */
 
-const variable1 = 15;
-const variable2 = 11;
+
 
 
 
