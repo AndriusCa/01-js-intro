@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "uzd-4": "nodemon ./uzd/biggest.js",
+    "uzd-3": "nodemon ./uzd/3-number.js",
+    "uzd-2": "nodemon ./uzd/2-multiply.js",
+    "uzd-1": "nodemon ./uzd/1-empty.js",
     "miniuzduotys": "nodemon ./js/miniuzduotys.js",
     "for": "nodemon ./js/12-for.js",
     "tries": " nodemon ./js/tries.js",

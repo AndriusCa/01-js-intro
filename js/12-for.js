@@ -200,6 +200,18 @@ for (let i = 0; i < jonas.length; i++) {
   
 ] */
 
-for (let i = jonas.length - 1; i >= 0; i) {
-  console.log(i, '-'jonas[i]);
- }
+//for (let i = jonas.length - 1; i >= 0; i--) {
+//  console.log(i, '-'jonas[i]);
+//}
+ 
+/*function biggest(list) { 
+  let result = list[0];
+  
+  for (let i = 0; i < list.length; i++);
+  if (list[i] > result) {
+    result = list[i];
+    }
+}
+
+
+console.log(biggest([-1, -2, -3, -4]); */
