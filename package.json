@@ -4,6 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "sort": "nodemon ./js/18-sort.js",
+    "filter": "nodemon ./js/17-filter.js",
+    "maps": "nodemon ./js/16-maps.js",
+    "foreach": "nodemon ./js/15-foreach.js",
     "loops": "nodemon ./js/14-loops.js",
     "arrow1": "nodemon ./uzd/arrowuzd.js",
     "uzd-6": "nodemon ./uzd/6-division.js",

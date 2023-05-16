@@ -69,7 +69,7 @@ console.log(suma)
 
 //For algoritmas
 console.clear()
-/*
+
 // aprasoma starto pozicija (0) ir kartojimas iki 5 pozicijos (negalima naudoti = (auto infinite loop)), kartojimo eiga ++ (dideja vienetu))
 const pazymiai = [1, 2, 4, 5, 8, 6, 7, 9, 3, 5]
 const kasKelintas = 3
@@ -134,7 +134,7 @@ console.log(atbulas)
 // for (let i = 1; i <= 10; i++) {
 //  console.log(`As dariau ${i} pakartojimu saleje`)
 //}   */
-/*
+
 const jonas = [
   'Jonas',
   'Schmedtmann',
@@ -149,12 +149,12 @@ const types = [];
 for (let i = 0; i < jonas.length; i++) {
   //reading from jonas array
   console.log(jonas[i], typeof jonas[i]);
-  
+}
 
  // filling types array
  // types[i] = typeof jonas[i];
   
-  
+ /* 
   types.push(typeof jonas[i]);
 }
 
