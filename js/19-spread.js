@@ -21,7 +21,7 @@ console.clear()
 // json
 
 // tekstinis duomenu formatas, bet jo nereiketu maisyti su stringu. Duomenu
-//vaiksciojimui tarp backend ir klient
+//vaiksciojimui tarp backend ir kliento
 
 console.clear();
 
@@ -86,14 +86,14 @@ user.name = 'Maryte';
 console.log(user);
 console.log(user3);
 
-const arr = [];
-const arrCopy = [...arr];
+//const arr = [];
+//const arrCopy = [...arr];
 
-const obj = {};
-const objCopy = { ...obj };
+//const obj = {};
+//const objCopy = { ...obj };
 
-let a = 5;
-let b = a;
+//let a = 5;
+//let b = a;
 
 console.log('>>>', a, b);
 

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "cheat": "nodemon ./js/cheatsheet.js",
     "spread": "nodemon ./js/19-spread.js",
     "sort": "nodemon ./js/18-sort.js",
     "filter": "nodemon ./js/17-filter.js",
